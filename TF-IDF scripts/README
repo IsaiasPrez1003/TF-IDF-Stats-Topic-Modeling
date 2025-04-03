@@ -1,9 +1,7 @@
-#Exploratory project leveraging participants answers to statisic based questions.
-##First analysis:
-Term-Frequency - Inverse Document Frequency (TF-IDF) was the main computation method to identify key words student's used while answearing questions. Using these values, PCA was preformed to investigate potential clustering of responses. 
 
-In addition, Heatmap's were constructed alongside each PCA plot to better view keywords. 
+First analysis:
+Term-Frequency - Inverse Document Frequency (TF-IDF) was the main computation method to identify key words student's used while answearing questions. Using these values, PCA was preformed to investigate potential clustering of responses. In addition, Heatmap's were constructed alongside each PCA plot to better view keywords. 
 
-##Second analysis:
+Second analysis:
 TF-IDF scores were used, but this time, data was structured to create two sets. These were arranged in the following manner. Set 1: Only correct answers for a given question, and set (2); Only incorrect answers for a given question.
 
